@@ -1,0 +1,97 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+DS1302_H	E:\pic18maplab\3\ds1302.h	2;"	d	line:2
+DSIO::PORTCbits.RC2	E:\pic18maplab\3\ds1302.c	5;"	d	line:5	file:
+Delay100TCYx	E:\360data\Microchip\mcc18\h\delays.h	39;"	p	line:39	signature:(PARAM_SCLASS unsigned char)
+Delay10KTCYx	E:\360data\Microchip\mcc18\h\delays.h	53;"	p	line:53	signature:(PARAM_SCLASS unsigned char)
+Delay10TCY::Delay10TCYx(1)	E:\360data\Microchip\mcc18\h\delays.h	24;"	d	line:24
+Delay10TCYx	E:\360data\Microchip\mcc18\h\delays.h	32;"	p	line:32	signature:(PARAM_SCLASS unsigned char)
+Delay1KTCYx	E:\360data\Microchip\mcc18\h\delays.h	46;"	p	line:46	signature:(PARAM_SCLASS unsigned char)
+Delay1TCY::Nop	E:\360data\Microchip\mcc18\h\delays.h	19;"	d	line:19
+ENGLISH_6X8_PIXEL_H	E:\pic18maplab\3\english_6x8_pixel.h	2;"	d	line:2
+K1::PORTBbits.RB0	E:\pic18maplab\3\main.c	8;"	d	line:8	file:
+K2::PORTBbits.RB1	E:\pic18maplab\3\main.c	7;"	d	line:7	file:
+K3::PORTBbits.RB2	E:\pic18maplab\3\main.c	6;"	d	line:6	file:
+K4::PORTBbits.RB3	E:\pic18maplab\3\main.c	5;"	d	line:5	file:
+LCD_CE::LATDbits.LATD6	E:\pic18maplab\3\5110.h	12;"	d	line:12
+LCD_DC::LATDbits.LATD5	E:\pic18maplab\3\5110.h	11;"	d	line:11
+LCD_RST::LATDbits.LATD7	E:\pic18maplab\3\5110.h	13;"	d	line:13
+LCD_clear	E:\pic18maplab\3\5110.c	50;"	f	line:50	signature:(void)
+LCD_clear	E:\pic18maplab\3\5110.h	17;"	p	line:17	signature:(void)
+LCD_draw_bmp_pixel	E:\pic18maplab\3\5110.c	138;"	f	line:138	signature:(unsigned char X,unsigned char Y,unsigned char *map, unsigned char Pix_x,unsigned char Pix_y)
+LCD_draw_bmp_pixel	E:\pic18maplab\3\5110.h	25;"	p	line:25	signature:(unsigned char X,unsigned char Y,unsigned char *map, unsigned char Pix_x,unsigned char Pix_y)
+LCD_init	E:\pic18maplab\3\5110.c	20;"	f	line:20	signature:(void)
+LCD_init	E:\pic18maplab\3\5110.h	16;"	p	line:16	signature:(void)
+LCD_move_chinese_string	E:\pic18maplab\3\5110.h	18;"	p	line:18	signature:(unsigned char X, unsigned char Y, unsigned char T)
+LCD_set_XY	E:\pic18maplab\3\5110.c	65;"	f	line:65	signature:(unsigned char X, unsigned char Y)
+LCD_set_XY	E:\pic18maplab\3\5110.h	28;"	p	line:28	signature:(unsigned char X, unsigned char Y)
+LCD_write_byte	E:\pic18maplab\3\5110.c	163;"	f	line:163	signature:(unsigned char dat, unsigned char command)
+LCD_write_byte	E:\pic18maplab\3\5110.h	27;"	p	line:27	signature:(unsigned char dat, unsigned char dc)
+LCD_write_char	E:\pic18maplab\3\5110.c	75;"	f	line:75	signature:(unsigned char c)
+LCD_write_char	E:\pic18maplab\3\5110.h	24;"	p	line:24	signature:(unsigned char c)
+LCD_write_chinese_string	E:\pic18maplab\3\5110.c	106;"	f	line:106	signature:(unsigned char X, unsigned char Y, unsigned char ch_with,unsigned char num, unsigned char line,unsigned char row,unsigned char j[][26])
+LCD_write_chinese_string	E:\pic18maplab\3\5110.h	20;"	p	line:20	signature:(unsigned char X, unsigned char Y, unsigned char ch_with,unsigned char num, unsigned char line,unsigned char row,unsigned char j[][26])
+LCD_write_english_string	E:\pic18maplab\3\5110.c	89;"	f	line:89	signature:(unsigned char X,unsigned char Y,char *s)
+LCD_write_english_string	E:\pic18maplab\3\5110.h	19;"	p	line:19	signature:(unsigned char X,unsigned char Y,char *s)
+PARAM_SCLASS::auto	E:\360data\Microchip\mcc18\h\delays.h	21;"	d	line:21
+READ_RTC_ADDR	E:\pic18maplab\3\ds1302.c	6;"	v	line:6
+RST::PORTCbits.RC3	E:\pic18maplab\3\ds1302.c	4;"	d	line:4	file:
+SCLK::LATDbits.LATD3	E:\pic18maplab\3\5110.h	9;"	d	line:9
+SCLK::PORTCbits.RC1	E:\pic18maplab\3\ds1302.c	3;"	d	line:3	file:
+SDIN::LATDbits.LATD4	E:\pic18maplab\3\5110.h	10;"	d	line:10
+TIME	E:\pic18maplab\3\ds1302.c	8;"	v	line:8
+WRITE_RTC_ADDR	E:\pic18maplab\3\ds1302.c	7;"	v	line:7
+__5110_H	E:\pic18maplab\3\5110.h	2;"	d	line:2
+__DELAYS_H	E:\360data\Microchip\mcc18\h\delays.h	2;"	d	line:2
+chinese_string	E:\pic18maplab\3\5110.h	23;"	p	line:23	signature:(unsigned char X, unsigned char Y, unsigned char T)
+dat	E:\pic18maplab\3\ds1302.c	77;"	l	line:77
+dat1	E:\pic18maplab\3\ds1302.c	77;"	l	line:77
+delay	E:\pic18maplab\3\ds1302.c	29;"	f	line:29	signature:(int j)
+delay	E:\pic18maplab\3\ds1302.h	11;"	p	line:11	signature:(int j)
+delay_1ms	E:\pic18maplab\3\5110.c	10;"	f	line:10	signature:(void)
+delay_1ms	E:\pic18maplab\3\5110.h	30;"	p	line:30	signature:(void)
+delay_1us	E:\pic18maplab\3\5110.c	4;"	f	line:4	signature:(void)
+delay_1us	E:\pic18maplab\3\5110.h	29;"	p	line:29	signature:(void)
+delay_nms	E:\pic18maplab\3\ds1302.c	16;"	f	line:16	signature:(unsigned int n)
+delay_nms	E:\pic18maplab\3\ds1302.h	10;"	p	line:10	signature:(unsigned int n)
+display	E:\pic18maplab\3\main.c	20;"	f	line:20	signature:(void)
+ds1302init	E:\pic18maplab\3\ds1302.c	119;"	f	line:119
+ds1302init	E:\pic18maplab\3\ds1302.h	14;"	p	line:14	signature:(void)
+ds1302read	E:\pic18maplab\3\ds1302.c	75;"	f	line:75	signature:(char addr)
+ds1302read	E:\pic18maplab\3\ds1302.h	13;"	p	line:13	signature:(char addr)
+ds1302readtime	E:\pic18maplab\3\ds1302.c	136;"	f	line:136
+ds1302readtime	E:\pic18maplab\3\ds1302.h	15;"	p	line:15	signature:(void)
+ds1302write	E:\pic18maplab\3\ds1302.c	40;"	f	line:40	signature:(uchar addr,uchar dat)
+ds1302write	E:\pic18maplab\3\ds1302.h	12;"	p	line:12	signature:(uchar addr,uchar dat)
+fen	E:\pic18maplab\3\main.c	12;"	v	line:12
+flag	E:\pic18maplab\3\main.c	10;"	v	line:10
+font6x8	E:\pic18maplab\3\english_6x8_pixel.h	7;"	v	line:7
+i	E:\pic18maplab\3\5110.c	110;"	l	line:110
+i	E:\pic18maplab\3\5110.c	12;"	l	line:12
+i	E:\pic18maplab\3\5110.c	141;"	l	line:141
+i	E:\pic18maplab\3\5110.c	165;"	l	line:165
+i	E:\pic18maplab\3\5110.c	52;"	l	line:52
+i	E:\pic18maplab\3\5110.c	6;"	l	line:6
+i	E:\pic18maplab\3\ds1302.c	31;"	l	line:31
+keyscan	E:\pic18maplab\3\main.c	16;"	p	line:16	file:	signature:(void)
+keyscan	E:\pic18maplab\3\main.c	53;"	f	line:53
+line	E:\pic18maplab\3\5110.c	77;"	l	line:77
+main	E:\pic18maplab\3\main.c	33;"	f	line:33
+miao	E:\pic18maplab\3\main.c	12;"	v	line:12
+n	E:\pic18maplab\3\5110.c	110;"	l	line:110
+n	E:\pic18maplab\3\5110.c	141;"	l	line:141
+n	E:\pic18maplab\3\ds1302.c	121;"	l	line:121
+n	E:\pic18maplab\3\ds1302.c	138;"	l	line:138
+n	E:\pic18maplab\3\ds1302.c	42;"	l	line:42
+n	E:\pic18maplab\3\ds1302.c	77;"	l	line:77
+num	E:\pic18maplab\3\main.c	11;"	v	line:11
+row	E:\pic18maplab\3\5110.c	142;"	l	line:142
+shi	E:\pic18maplab\3\main.c	12;"	v	line:12
+uchar::unsignedchar	E:\pic18maplab\3\ds1302.h	7;"	d	line:7
+uint::unsignedint	E:\pic18maplab\3\ds1302.h	8;"	d	line:8
